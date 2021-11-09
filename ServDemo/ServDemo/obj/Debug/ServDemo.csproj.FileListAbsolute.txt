@@ -1,0 +1,9 @@
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\bin\Debug\ServDemo.exe.config
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\bin\Debug\ServDemo.exe
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\bin\Debug\ServDemo.pdb
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\obj\Debug\ServDemo.csproj.AssemblyReference.cache
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\obj\Debug\ServDemo.Properties.Resources.resources
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\obj\Debug\ServDemo.csproj.GenerateResource.cache
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\obj\Debug\ServDemo.csproj.CoreCompileInputs.cache
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\obj\Debug\ServDemo.exe
+C:\Programy\dotnet\ServProject\dotnet-server\ServDemo\ServDemo\obj\Debug\ServDemo.pdb
